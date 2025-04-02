@@ -32,7 +32,7 @@ const Footer = () => {
                         ))}
                     </div>
                     <div className="">
-                        <h6 className="mb-4 flex justify-center font-semibold uppercase md:justify start">
+                        <h6 className="mb-4 flex justify-center font-semibold uppercase md:justify-start">
                             Useful links
                         </h6>
                         {usefullLink.map((el, i) => (
